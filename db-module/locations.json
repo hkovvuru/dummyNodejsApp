@@ -1,0 +1,6 @@
+[
+    { "_id" : 1, "location" : "Bangalore" },
+    { "_id" : 2, "location" : "Chennai" },
+    { "_id" : 3, "location" : "pune" },
+    { "_id" : 4, "location" : "Hyderabad" }
+]
